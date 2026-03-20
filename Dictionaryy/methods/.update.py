@@ -3,4 +3,5 @@ marks = {"Manish" : 78,
        "Shivam" : 100,
 }
 marks.update({"Manish":99})
+marks.update({"Satyam":100})
 print(marks)
