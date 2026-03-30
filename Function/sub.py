@@ -1,4 +1,4 @@
 def sum(a,b):
     return a-b
 
-print(sum(145,9))
+print(sum(15,9))
