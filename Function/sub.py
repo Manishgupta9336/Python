@@ -1,4 +1,3 @@
-def sum(a,b):
-    return a-b
-
-print(sum(15,9))
+def sub(a,b):
+    print(a-b)
+sub(10,3)
