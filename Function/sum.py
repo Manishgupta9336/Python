@@ -1,4 +1,4 @@
 def sum(a,b):
-    return a+b
+    print(a+b)
 
-print(sum(81,9))
+sum(81,9)
