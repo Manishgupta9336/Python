@@ -7,6 +7,6 @@ while(n>0):
     sum = (sum*10) + r
     n = n//10
 if (sum==c):
-    print("Yes! palindrom ")
+    print("Yes palindrom ")
 else:
     print("Not Palindrom")
