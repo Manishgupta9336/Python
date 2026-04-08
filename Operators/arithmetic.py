@@ -4,4 +4,4 @@ b = int(input("Enter 2nd number: "))
 print("Addition- ",a+b)
 print("Subtraction- ",a-b)
 print("Multiplication- ",a*b)
-print("Division- ",a/b) #for b>0
+print("Division- ",a/b) #for b > 0
