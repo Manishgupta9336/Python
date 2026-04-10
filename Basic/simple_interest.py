@@ -3,4 +3,4 @@ r = float(input("Enter rate: "))
 t = int(input("Enter time: "))
 
 si = (p*r*t)/100
-print("simple interest is: ",si)
+print("simple interest is: ", si)
