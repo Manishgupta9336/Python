@@ -1,2 +1,2 @@
 a = input("Enter a character: ")
-print(ord(a))
+print("Order of character is: ", ord(a))
