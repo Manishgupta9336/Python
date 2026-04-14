@@ -8,6 +8,7 @@ elif(ch == 'e' or ch == 'E'):
     
 elif(ch == 'i' or ch == 'I'):
     print("Vowel")
+    
 elif(ch == 'o' or ch == 'O'):
     print("Vowel")
 elif(ch == 'u' or ch == 'U'):
