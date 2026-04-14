@@ -5,5 +5,6 @@ if(ch.isupper()):
     
 elif(ch.islower()):
     print("Lower")
+    
 if(ch.isdigit()):
     print("Digit")
