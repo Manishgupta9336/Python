@@ -11,6 +11,7 @@ elif(ch == 'i' or ch == 'I'):
     
 elif(ch == 'o' or ch == 'O'):
     print("Vowel")
+    
 elif(ch == 'u' or ch == 'U'):
     print("Vowel")
 else:
