@@ -1,7 +1,6 @@
 ch = input("Enter a charatcter: ")
 
-if(ch == 'a' or ch == 'A'):
-    print("Vowel")
+if(ch == 'a' or ch == 'A'): print("Vowel")
 
 elif(ch == 'e' or ch == 'E'):
     print("Vowel")
