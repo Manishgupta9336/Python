@@ -5,6 +5,5 @@ if (age>=18):
 
 elif (age<=10):
     print("Child") 
-    
 else:
     print("Teenager")
