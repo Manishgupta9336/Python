@@ -1,3 +1,3 @@
 a = 5   
 b = 6
-print("Product of a and b  is: ", a*b)
+print("Product of a an b  is: ", a*b)
