@@ -10,6 +10,5 @@ while(n>0):
 
 if (sum == c):
     print("Yes it is Armstrong number ")
-    
 else:
     print("Not a Armstrong")
