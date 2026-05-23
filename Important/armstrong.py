@@ -9,6 +9,7 @@ while(n>0):
     n = n//10
 
 if (sum == c):
+
     print("Yes it is Armstrong number ")
 else:
     print("Not a Armstrong")
